@@ -31,7 +31,7 @@ ChatGpt:
 
 👩‍💻   _Expert_
 
-      Natália Almeida
+Natália Almeida
 
   
 
