@@ -3,6 +3,8 @@
 
 ## **Projeto com o objetivo de gerar um ebook digital com as facilidades de I.A. Todos os prompts seguem abaixo**
 
+[Clique aqui para ler](https://www.linkedin.com/posts/natalia-almeida-7249b6183_ebook-o-front-end-e-o-c%C3%A1lice-do-c%C3%B3digo-activity-7336392347619897345-ry1w?utm_source=share&utm_medium=member_desktop&rcm=ACoAACtlg4wBdefA5WWfKmYeuuudVhpgAYlrRw4)
+
 💻   _Tecnologias utilizadas no Projeto_
 
 +  ChatGpt 
